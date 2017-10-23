@@ -15,3 +15,36 @@ This file was produced on October 22, 2017 as a GitHub sample project for Shawn 
 
 
 Thanks for reading
+
+
+I want to try and see if this edit box accepts HTML.
+
+<h3>This text should be larger and embolden</h3>
+<hr size="80%" />
+
+_________________________________________________________________________________________________________
+Add some more ideas after this line. When or if it gets complicated, we will add instructions on how to download, install, and configure the apps highlighted in this ThinkAboutIt repository.
+
+
+
+<p color="navy" font-family="tahoma">This text should have changed color and font.</p>
+
+Or use backticks ' to format text 'formated text here'
+
+and quotes >You should know them all
+
+
+
+
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+With any luck, the code above will be hightlighted with Ruby language syntax.
+
+
+Shawn
