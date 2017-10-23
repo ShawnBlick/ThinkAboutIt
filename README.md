@@ -28,3 +28,7 @@ Add some more ideas after this line. When or if it gets complicated, we will add
 
 
 <p color="navy" font-family="tahoma">This text should have changed color and font.</p>
+
+Or use backticks ' to format text 'formated text here'
+
+and quotes >You should know them all
