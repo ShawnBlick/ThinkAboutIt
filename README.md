@@ -15,3 +15,13 @@ This file was produced on October 22, 2017 as a GitHub sample project for Shawn 
 
 
 Thanks for reading
+
+
+I want to try and see if this edit box accepts HTML.
+
+<h3>This text should be larger and embolden</h3>
+<hr size="80%" />
+
+_________________________________________________________________________________________________________
+Add some more ideas after this line. When or if it gets complicated, we will add instructions on how to download, install, and configure the apps highlighted in this ThinkAboutIt repository.
+
