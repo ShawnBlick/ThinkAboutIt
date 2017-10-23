@@ -32,3 +32,19 @@ Add some more ideas after this line. When or if it gets complicated, we will add
 Or use backticks ' to format text 'formated text here'
 
 and quotes >You should know them all
+
+
+
+
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+With any luck, the code above will be hightlighted with Ruby language syntax.
+
+
+Shawn
