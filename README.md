@@ -25,3 +25,6 @@ I want to try and see if this edit box accepts HTML.
 _________________________________________________________________________________________________________
 Add some more ideas after this line. When or if it gets complicated, we will add instructions on how to download, install, and configure the apps highlighted in this ThinkAboutIt repository.
 
+
+
+<p color="navy" font-family="tahoma">This text should have changed color and font.</p>
